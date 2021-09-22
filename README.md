@@ -1,4 +1,3 @@
 # ML
 
-HW1 - Developed Linear Regression Model from scratch and implemented on Covid 19 Metadata.
-HW2 - 
+CSE 512 Spring 2021 Machine Learning Course under Prof. Minh Hoai Nguyen
